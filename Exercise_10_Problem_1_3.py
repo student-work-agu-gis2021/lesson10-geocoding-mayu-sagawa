@@ -13,8 +13,7 @@ import pandas as pd
 data = None
 # YOUR CODE HERE 1 to read the data
 data=pd.read_table('shopping_centers.txt',sep=';',header=None)
-data.index.name='id'
-data.columns=['name','addr']
+data.columns=['id','name','addr']
 
 #TEST COEE
 # Check your input data
