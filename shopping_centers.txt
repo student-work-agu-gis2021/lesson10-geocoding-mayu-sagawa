@@ -1,0 +1,4 @@
+id;name;addr;
+1508019;Tokyu Department Store;東京都渋谷区道玄坂2-24-1;
+1500042;Seibu Shibuya Store;東京都渋谷区宇田川町21-1;
+1060047;National Azabu;東京都港区南麻布4丁目5-2;
