@@ -138,5 +138,10 @@ national_sum=round(national["PTN_2020"].sum())
 # - What was difficult?
 
 # YOUR ANSWER HERE
-
+# Problem 1 is 5(deifficult).
+# Problem 2 is 5.
+# Problem 3 is 5.
+# Because I didn't know how the execution result would be correct, and it was difficult for me to create the address.
+# I think it's easy to read the file and create Columns.
+# I think it's difficult overall. I think it is especially difficult to create shapefiles and problems 2 and 3. 
 # Well done!
