@@ -105,6 +105,10 @@ print(geodata.head())
 
 # YOUR CODE HERE 9
 # Read population grid data for 2018 into a variable `pop`. 
+pop=None
+pop=gpd.read_file(r"data/500m_mesh_suikei_2018_shape_13/500m_mesh_2018_13.shp")
+pop=pop[["PTN_2020","geometry"]]
+geodata=geodata.to_crs(pop.crs)
 
 #TEST CODE
 # Check your input data
